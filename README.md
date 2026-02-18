@@ -29,6 +29,7 @@ My solutions to LeetCode problems in Java
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aditivvs03/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/aditivvs03/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ My solutions to LeetCode problems in Java
 | [0066-plus-one](https://github.com/aditivvs03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -81,6 +83,7 @@ My solutions to LeetCode problems in Java
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aditivvs03/leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
