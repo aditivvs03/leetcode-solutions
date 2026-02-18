@@ -20,6 +20,7 @@ My solutions to LeetCode problems in Java
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/aditivvs03/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ My solutions to LeetCode problems in Java
 | [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1929-concatenation-of-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
