@@ -25,10 +25,12 @@ My solutions to LeetCode problems in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/aditivvs03/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
