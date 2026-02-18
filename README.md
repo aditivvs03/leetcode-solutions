@@ -6,11 +6,13 @@ My solutions to LeetCode problems in Java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditivvs03/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/aditivvs03/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditivvs03/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/aditivvs03/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
