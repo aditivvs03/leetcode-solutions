@@ -41,6 +41,7 @@ My solutions to LeetCode problems in Java
 | [0268-missing-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0860-lemonade-change](https://github.com/aditivvs03/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1929-concatenation-of-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/aditivvs03/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -90,4 +91,8 @@ My solutions to LeetCode problems in Java
 | ------- |
 | [0136-single-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/aditivvs03/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
