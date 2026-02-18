@@ -28,11 +28,13 @@ My solutions to LeetCode problems in Java
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -43,14 +45,20 @@ My solutions to LeetCode problems in Java
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/aditivvs03/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
