@@ -14,7 +14,8 @@ The goal of this repository is to improve problem-solving skills, master data st
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aditivvs03?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditishastry?theme=dark&font=Karma)
+
 
 
 
