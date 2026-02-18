@@ -33,6 +33,7 @@ My solutions to LeetCode problems in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditivvs03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditivvs03/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/aditivvs03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ My solutions to LeetCode problems in Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditivvs03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aditivvs03/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aditivvs03/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditivvs03/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
