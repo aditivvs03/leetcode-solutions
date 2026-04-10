@@ -55,3 +55,19 @@ Each problem is stored in a separate folder:
 - GitHub: https://github.com/adititvs03
 - LeetCode: https://leetcode.com/adititvs03/
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditivvs03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditivvs03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditivvs03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
